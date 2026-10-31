@@ -25,7 +25,7 @@ class TestAccountCommission(TestCommissionBase):
             {
                 "name": "Test Cash Journal",
                 "type": "cash",
-                "code": "CSH1",
+                "code": "TCOM",
                 "company_id": cls.company.id,
             }
         )
